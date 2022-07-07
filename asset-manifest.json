@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MadhuData/static/css/main.b323f2ec.css",
-    "main.js": "/MadhuData/static/js/main.323011de.js",
+    "main.js": "/MadhuData/static/js/main.41395f99.js",
     "static/media/ecommerce.png": "/MadhuData/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/resume.pdf": "/MadhuData/static/media/resume.944ae2c2747f86318de8.pdf",
     "static/media/sidebar.png": "/MadhuData/static/media/sidebar.b2225070b8adae68d063.png",
@@ -18,10 +18,10 @@
     "static/media/glasses.png": "/MadhuData/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/MadhuData/index.html",
     "main.b323f2ec.css.map": "/MadhuData/static/css/main.b323f2ec.css.map",
-    "main.323011de.js.map": "/MadhuData/static/js/main.323011de.js.map"
+    "main.41395f99.js.map": "/MadhuData/static/js/main.41395f99.js.map"
   },
   "entrypoints": [
     "static/css/main.b323f2ec.css",
-    "static/js/main.323011de.js"
+    "static/js/main.41395f99.js"
   ]
 }
