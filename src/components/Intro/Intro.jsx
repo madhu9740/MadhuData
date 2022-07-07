@@ -30,7 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Madhu Sudhan C</span>
           <span>
-            Frontend Developer with high level of experience in web designing
+            Frontend Developer with intermediate level of experience in web designing
             and development, producting the Quality work
           </span>
         </div>
@@ -75,7 +75,7 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={thumbup} text1="Best Design" text2="Award" />
+          <FloatinDiv img={thumbup} text1="Team Player and Partnership" text2="Award" />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
